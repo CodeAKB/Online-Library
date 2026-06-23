@@ -12,4 +12,4 @@ A library made by java which can store books, add book, can issue a book and ret
 * Run it
 ## What I learned
 * Use of **Array** and **Varargs**.
-* making Custom `Class` and it's `Method`.
+* Making Custom `Class` and it's `Method`.
