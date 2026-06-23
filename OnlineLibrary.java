@@ -68,7 +68,9 @@ class library {
 public class OnlineLibrary {
 	
 	public static void main (String[] args) {
-		
+		library lms = new library();
+		//lms --> Library Management System.
+		//Here lms is an object. Use this object to call your methods from the custom class.
 	}
 }
 
